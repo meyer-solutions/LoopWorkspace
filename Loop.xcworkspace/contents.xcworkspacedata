@@ -11,6 +11,9 @@
       location = "group:AdditionalWatchAssets.xcassets">
    </FileRef>
    <FileRef
+      location = "group:Loop/Info.plist">
+   </FileRef>
+   <FileRef
       location = "group:Loop/Loop.xcodeproj">
    </FileRef>
    <FileRef
